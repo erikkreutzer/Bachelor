@@ -2,7 +2,7 @@
 # Site
 
 title               : "Site title"
-url                 : "https://erikkreutzer.github.io/Bachelor/"
+url                 : "/Bachelor/"
 google_analytics_key: ""
 show_full_navigation: false
 
@@ -98,7 +98,7 @@ canonical-url: "http://example.com"
 # the name of your repo, e.g. /electric-book
 # It must start with a slash. Otherwise you can leave it blank. See:
 # http://downtothewire.io/2015/08/15/configuring-jekyll-for-user-and-project-github-pages/
-baseurl: ""
+baseurl: "/Bachelor"
 
 # GitHub Pages repository
 # -----------------------
