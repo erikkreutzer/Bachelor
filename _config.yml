@@ -141,7 +141,7 @@ plugins:
   - jekyll-redirect-from
 
 exclude:
-  - [vendor]
+  - vendor
   - Gemfile
   - Gemfile.lock
   - README.md
