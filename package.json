@@ -12,7 +12,9 @@
     "book"
   ],
   "main": "/_site",
-  "dependencies": {},
+  "dependencies": {
+    "tzinfo": "^0.5.1"
+  },
   "devDependencies": {
     "run-run": "^1.1.0"
   },
