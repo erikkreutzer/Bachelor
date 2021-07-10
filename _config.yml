@@ -2,7 +2,7 @@
 # Site
 
 title               : "Site title"
-url                 : ""
+url                 : "https://erikkreutzer.github.io/Bachelor/"
 google_analytics_key: ""
 show_full_navigation: false
 
@@ -25,12 +25,6 @@ creators:
     twitter         : "@authorname"
     sameAs          :
       - https://authorname.com/
-  - lastName        : lastName 2
-    firstName       : firstName 2
-    creatorType     : Directeur
-    affiliation     : affiliation 2
-    email           : authorname2@domain.com
-    twitter         : "@authorname2"
 publisher           : Publisher
 cc                  : CC-BY # Choose a Creative Commons license (https://creativecommons.org/choose/)
 date                : 2018-01-01
